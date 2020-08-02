@@ -1,6 +1,6 @@
 # crud_sqlite
 
-A new Flutter project.
+Ejemplo CRUD Flutter con sqflite
 
 ## Getting Started
 
